@@ -1,0 +1,2 @@
+MainPackage=E:\Potrzebne\Projekty C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\ARM\Release\Kółko i krzyżyk_1.0.0.0_ARM.appx
+SymbolPackage=E:\Potrzebne\Projekty C#\Kółko i krzyżyk\Kółko i krzyżyk\AppPackages\Kółko i krzyżyk_1.0.0.0_Test\Kółko i krzyżyk_1.0.0.0_ARM.appxsym

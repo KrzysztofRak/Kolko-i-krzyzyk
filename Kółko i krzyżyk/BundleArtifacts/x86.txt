@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Krzysztof\Desktop\Kółko i krzyżyk\Kółko i krzyżyk\bin\x86\Release\Kółko i krzyżyk_1.0.11.0_x86.appx
+SymbolPackage=C:\Users\Krzysztof\Desktop\Kółko i krzyżyk\Kółko i krzyżyk\AppPackages\Kółko i krzyżyk_1.0.11.0_Test\Kółko i krzyżyk_1.0.11.0_x86.appxsym

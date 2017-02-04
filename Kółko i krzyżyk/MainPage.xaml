@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Kółko_i_krzyżyk.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Kółko_i_krzyżyk"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="520" Width="400">
+
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="500" Margin="0" Width="400">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/menuBackground.png"/>
+        </Grid.Background>
+        <Button x:Name="button_newGame" Content="" HorizontalAlignment="Left" Margin="75,137,0,0" VerticalAlignment="Top" Height="75" Width="250" Click="button_NewGame_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/button_new_game.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button_exit" Content="" HorizontalAlignment="Left" Margin="75,287,0,0" VerticalAlignment="Top" Height="75" Width="250" Click="button_Exit_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/button_end.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>
